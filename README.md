@@ -1,1 +1,6 @@
-### chat-app
+# starter template nextjs
+
+#### Features
+
+- typescript
+- styled-components
